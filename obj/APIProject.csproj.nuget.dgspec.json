@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/fillype/Área de Trabalho/Projeto_API/APIProject/APIProject.csproj": {}
+    "/home/fillype/Área de Trabalho/projeto/Projeto_API/APIProject/APIProject.csproj": {}
   },
   "projects": {
-    "/home/fillype/Área de Trabalho/Projeto_API/APIProject/APIProject.csproj": {
+    "/home/fillype/Área de Trabalho/projeto/Projeto_API/APIProject/APIProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/fillype/Área de Trabalho/Projeto_API/APIProject/APIProject.csproj",
+        "projectUniqueName": "/home/fillype/Área de Trabalho/projeto/Projeto_API/APIProject/APIProject.csproj",
         "projectName": "APIProject",
-        "projectPath": "/home/fillype/Área de Trabalho/Projeto_API/APIProject/APIProject.csproj",
+        "projectPath": "/home/fillype/Área de Trabalho/projeto/Projeto_API/APIProject/APIProject.csproj",
         "packagesPath": "/home/fillype/.nuget/packages/",
-        "outputPath": "/home/fillype/Área de Trabalho/Projeto_API/APIProject/obj/",
+        "outputPath": "/home/fillype/Área de Trabalho/projeto/Projeto_API/APIProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/fillype/.nuget/NuGet/NuGet.Config"
@@ -42,9 +42,13 @@
               "target": "Package",
               "version": "[12.0.1, )"
             },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[7.0.9, )"
+              "version": "[7.0.10, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -88,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
         }
       }
     }

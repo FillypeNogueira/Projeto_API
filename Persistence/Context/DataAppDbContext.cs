@@ -5,7 +5,18 @@ namespace APIProject.Persistence.Context
 {
     public class DataAppDbContext : DbContext
     {
-        public DataAppDbContext(DbContextOptions<DataAppDbContext> options) : base(options) { }
+        private readonly IConfiguration _configuration;
+        public DataAppDbContext(DbContextOptions<DataAppDbContext> options, IConfiguration configuration) : base(options) 
+        {
+            _configuration = configuration;
+        }
+
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            base.OnConfiguring(optionsBuilder);
+            optionsBuilder.UseNpgsql(_configuration["ConnectionStrings:DefaultConnection"]);
+        }
 
         public DbSet<Category> Categories {get; set; }
 
@@ -13,6 +24,7 @@ namespace APIProject.Persistence.Context
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
+            base.OnModelCreating(builder);
             builder.Entity<Category>().ToTable("Category");
             builder.Entity<Category>().HasKey(p => p.CategoryId);
             builder.Entity<Category>().Property(p => p.CategoryId).IsRequired().ValueGeneratedOnAdd();

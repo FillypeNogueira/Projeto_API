@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3/U+1bxeuEZGFBYTp/d15CdpLjVAJr/TARQYmYJEUSAF/P5/0OFBO1cu+L0uQ/wxju5Xv9k/x4O3HnGvgEFYbA==",
+  "dgSpecHash": "hblJxZ/umO6nzNUf0+ZlyztO/Df8EJxgdUm3biNXm86z2zLUzPpnVow+ysUZCjaP/GL1XRnd+PYR7FLabtPZMA==",
   "success": true,
-  "projectFilePath": "/home/fillype/Área de Trabalho/Projeto_API/APIProject/APIProject.csproj",
+  "projectFilePath": "/home/fillype/Área de Trabalho/projeto/Projeto_API/APIProject/APIProject.csproj",
   "expectedPackageFiles": [
     "/home/fillype/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/home/fillype/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "/home/fillype/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/home/fillype/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/fillype/.nuget/packages/humanizer.core.af/2.14.1/humanizer.core.af.2.14.1.nupkg.sha512",
@@ -55,7 +56,7 @@
     "/home/fillype/.nuget/packages/humanizer.core.zh-cn/2.14.1/humanizer.core.zh-cn.2.14.1.nupkg.sha512",
     "/home/fillype/.nuget/packages/humanizer.core.zh-hans/2.14.1/humanizer.core.zh-hans.2.14.1.nupkg.sha512",
     "/home/fillype/.nuget/packages/humanizer.core.zh-hant/2.14.1/humanizer.core.zh-hant.2.14.1.nupkg.sha512",
-    "/home/fillype/.nuget/packages/microsoft.aspnetcore.openapi/7.0.9/microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
+    "/home/fillype/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "/home/fillype/.nuget/packages/microsoft.aspnetcore.razor.language/6.0.11/microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",
     "/home/fillype/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "/home/fillype/.nuget/packages/microsoft.build/17.3.2/microsoft.build.17.3.2.nupkg.sha512",
