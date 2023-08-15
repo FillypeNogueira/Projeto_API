@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/fillype/Área de Trabalho/projeto/Projeto_API/APIProject/APIProject.csproj": {}
+    "/home/fillype/Área de Trabalho/Projeto Definitivo/API_Project/APIProject/APIProject.csproj": {}
   },
   "projects": {
-    "/home/fillype/Área de Trabalho/projeto/Projeto_API/APIProject/APIProject.csproj": {
+    "/home/fillype/Área de Trabalho/Projeto Definitivo/API_Project/APIProject/APIProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/fillype/Área de Trabalho/projeto/Projeto_API/APIProject/APIProject.csproj",
+        "projectUniqueName": "/home/fillype/Área de Trabalho/Projeto Definitivo/API_Project/APIProject/APIProject.csproj",
         "projectName": "APIProject",
-        "projectPath": "/home/fillype/Área de Trabalho/projeto/Projeto_API/APIProject/APIProject.csproj",
+        "projectPath": "/home/fillype/Área de Trabalho/Projeto Definitivo/API_Project/APIProject/APIProject.csproj",
         "packagesPath": "/home/fillype/.nuget/packages/",
-        "outputPath": "/home/fillype/Área de Trabalho/projeto/Projeto_API/APIProject/obj/",
+        "outputPath": "/home/fillype/Área de Trabalho/Projeto Definitivo/API_Project/APIProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/fillype/.nuget/NuGet/NuGet.Config"

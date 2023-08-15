@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hblJxZ/umO6nzNUf0+ZlyztO/Df8EJxgdUm3biNXm86z2zLUzPpnVow+ysUZCjaP/GL1XRnd+PYR7FLabtPZMA==",
+  "dgSpecHash": "+kcz0d3PtjbYUKytAekNt7X3X3snh5oq7abnLn6h5YIoXfuQIe1yj30HnCvYZu9DhWmvCeSNzj5aaCXgTx1i6A==",
   "success": true,
-  "projectFilePath": "/home/fillype/Área de Trabalho/projeto/Projeto_API/APIProject/APIProject.csproj",
+  "projectFilePath": "/home/fillype/Área de Trabalho/Projeto Definitivo/API_Project/APIProject/APIProject.csproj",
   "expectedPackageFiles": [
     "/home/fillype/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/home/fillype/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
